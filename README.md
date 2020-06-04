@@ -11,14 +11,34 @@ Everything should be labeled by unit, but if you have any questions, contact me 
   <li> Stack Vs. Heap </li>
 </ul>
 
-#Unit Two 
-Operations, controll statments, iterative statments, conditional statements, program flow 
+<h2>Unit Two </h2> <br>
+<ul>
+  <li>Operations</li>
+  <li>controll statments </li>
+  <li>iterative statments </li>
+  <li>conditional statements </li>
+  <li>program flow </li>
+</ul>
 
-#Unit Three 
-String operations
+<h2>Unit Three </h2> <br>
+<ul>
+  <li>String operations</li>
+  <li>Concatentaion</li>
+  <li>Referencing Characters</li>
+  <li>Searching Characters</li>
+</ul>
 
-#Unit Four
-Methods, Passing Arguments, Returning data
+<h2>Unit Four </h2> <br>
+<ul>
+  <li>Methods</li>
+  <li>Passing Arguments</li>
+  <li>Returning Data</li>
+</ul>
+
+<h2> Unit Five </h2>
+  <ul>
+  <li> Arrays </li>
+  </ul>
 
 
 
