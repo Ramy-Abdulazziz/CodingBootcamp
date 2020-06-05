@@ -1,0 +1,22 @@
+package variables;
+
+public class PrimitiveVariables {
+
+	public static void main(String[] args) {
+		
+		//8 primitive variables 
+		
+		int x; 
+		
+		System.out.println(Integer.MAX_VALUE + " -- " + Integer.MIN_VALUE);
+		
+		
+		x = 2147483647;
+		
+		System.out.println(x);
+		
+		
+		
+	}
+
+}

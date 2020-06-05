@@ -1,0 +1,48 @@
+package variables;
+
+public class PrimitiveVariables {
+
+	public static void main(String[] args) {
+
+		// 8 primitive variables
+
+		int x;
+		System.out.println(Integer.MAX_VALUE + " -- " + Integer.MIN_VALUE);
+
+		x = 2147483647;
+
+		System.out.println(x);
+		System.out.println(x + 1);
+
+		System.out.println(Integer.SIZE);
+
+		double y = 3.5;
+
+		System.out.println(Double.MAX_VALUE + " -- " + Double.MIN_VALUE);
+		System.out.println(Double.SIZE);
+
+		float f = 4.5f;
+
+		System.out.println(Float.MAX_VALUE + " -- " + Float.MIN_VALUE);
+		System.out.println(Float.SIZE);
+
+		long l = 1234l;
+		
+		int a = 5;
+		int b = 10;
+		
+		int result = add(a, b);
+		
+		System.out.println(result);
+		
+
+	}
+
+
+	public static int add(int a, int b) {
+		
+		return a + b;
+	}
+
+
+}
