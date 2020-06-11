@@ -14,10 +14,11 @@ Everything should be labeled by unit, but if you have any questions, contact me 
 <h2>Unit Two </h2> <br>
 <ul>
   <li>Operations</li>
-  <li>controll statments </li>
-  <li>iterative statments </li>
-  <li>conditional statements </li>
-  <li>program flow </li>
+  <li>Controll Statments </li>
+  <li>Iterative Statments </li>
+  <li>Conditional Statements </li>
+  <li>Program Flow</li>
+  <li>User Input</li>
 </ul>
 
 <h2>Unit Three </h2> <br>
@@ -33,14 +34,25 @@ Everything should be labeled by unit, but if you have any questions, contact me 
   <li>Methods</li>
   <li>Passing Arguments</li>
   <li>Returning Data</li>
+  <li> Debugging </li> 
+  <li> Eclispse Debugging Tool </li>
 </ul>
 
 <h2> Unit Five </h2>
   <ul>
-  <li> Arrays </li>
-  <li> 2D Arrays </li>
+    <li> Arrays </li>
+    <li> 2D Arrays </li>
+    <li> Elementary Programming Final Review </li> 
+    <li> Syntax Final Review </li>
+    <li> Memory Allocation Final Review </li>
   </ul>
 
-
+<h2> Unit Six </h2>
+<ul>
+  <li> Introduction To OOP </li>
+  <li> What Is An Object </li>
+  <li> Constructors </li>
+  <li> Getters and Setters </li>
+ </ul>
 
 
