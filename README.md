@@ -29,6 +29,11 @@ Everything should be labeled by unit, but if you have any questions, contact me 
   <li>Searching Characters</li>
 </ul>
 
+
+<h2> Project One </h2>
+  <p> Restaurant Ordering System</p>
+
+
 <h2>Unit Four </h2> <br>
 <ul>
   <li>Methods</li>
@@ -46,13 +51,20 @@ Everything should be labeled by unit, but if you have any questions, contact me 
     <li> Syntax Final Review </li>
     <li> Memory Allocation Final Review </li>
   </ul>
+  
+  <h2> Project Two </h2>
+  <p>Plotting The Sine , Cosine, and Tangent Functions</p>
+  
+  <h2> Project Three </h2>
+  <p>Create A Random Number Guessing Game</p>
+  
+   <h2> Project Four </h2>
+  <p>Create A Sudoku Game</p>
+  
 
 <h2> Unit Six </h2>
 <ul>
   <li> Introduction To OOP </li>
-  <li> What Is An Object </li>
-  <li> Constructors </li>
-  <li> Getters and Setters </li>
  </ul>
 
 
