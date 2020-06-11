@@ -38,6 +38,7 @@ Everything should be labeled by unit, but if you have any questions, contact me 
 <h2> Unit Five </h2>
   <ul>
   <li> Arrays </li>
+  <li> 2D Arrays </li>
   </ul>
 
 
